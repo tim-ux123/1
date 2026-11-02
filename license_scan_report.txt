@@ -1,0 +1,148 @@
+======================================================================
+开源软件许可证扫描报告
+======================================================================
+
+扫描时间: 2026-11-02T23:53:51.514007
+
+----------------------------------------------------------------------
+【1. 项目信息】
+----------------------------------------------------------------------
+  name: Apache Commons Lang
+  description: Apache Commons Lang is a package of Java utility classes for the Java lang packages,
+  classes that could be considered standard to justify their existence in java.lang.
+
+  The code is tested using the latest revision of the JDK for supported LTS releases: 8, 11, 17, 21, and 25.
+  See https://github.com/apache/commons-lang/blob/master/.github/workflows/maven.yml
+
+  Please ensure your build environment is up-to-date and kindly report any build issues.
+
+  Starting with Commons Lang 3.9, we target Java 8 and use those features.
+
+  For advice on upgrading from 2.x to 3.x, see https://commons.apache.org/lang/article3_0.html
+  url: https://commons.apache.org/proper/commons-lang/
+  version: 107
+  inception_year: 2001
+  has_git: True
+
+----------------------------------------------------------------------
+【2. 扫描统计】
+----------------------------------------------------------------------
+  扫描文件总数: 725
+  源码文件数: 718
+  许可证覆盖率: 99.2%
+  文件头部含许可证声明的文件数: 712
+  文件头部无许可证声明的文件数: 6
+
+----------------------------------------------------------------------
+【3. 文件类型分布 Top 10】
+----------------------------------------------------------------------
+  .java          : 635
+  .xml           : 31
+  .txt           : 30
+  .md            : 6
+  .yml           : 5
+  (no ext)       : 3
+  .png           : 3
+  .xcf           : 2
+  .class         : 2
+  .yaml          : 1
+
+----------------------------------------------------------------------
+【4. 检测到的许可证类型分布】
+----------------------------------------------------------------------
+  Apache-2.0          : 712 个文件
+
+----------------------------------------------------------------------
+【5. SPDX-License-Identifier】
+----------------------------------------------------------------------
+  未检测到 SPDX 标识符
+
+----------------------------------------------------------------------
+【6. 许可证相关文件】
+----------------------------------------------------------------------
+  LICENSE.txt (11561 bytes) - 检测到: Apache-2.0
+    内容预览: 
+                                 Apache License
+                           Version 2.0, January 200...
+  NOTICE.txt (179 bytes)
+    内容预览: Apache Commons Lang
+Copyright 2001-2026 The Apache Software Foundation
+
+This product includes softwa...
+  README.md (7366 bytes) - 检测到: Apache-2.0
+    内容预览: <!---
+ Licensed to the Apache Software Foundation (ASF) under one or more
+ contributor license agree...
+
+----------------------------------------------------------------------
+【7. 版权信息样本】
+----------------------------------------------------------------------
+  NOTICE.txt: Copyright 2001-2026 The Apache Software Foundation
+
+----------------------------------------------------------------------
+【8. 源代码文件头部样本（含许可证声明）】
+----------------------------------------------------------------------
+
+  文件: .asf.yaml
+  检测许可证: Apache-2.0
+  头部内容:
+    # Licensed to the Apache Software Foundation (ASF) under one or more
+    
+    # contributor license agreements.  See the NOTICE file distributed with
+    
+    # this work for additional information regarding copyright ownership.
+    
+    # The ASF licenses this file to You under the Apache License, Version 2.0
+    
+
+  文件: .gitattributes
+  检测许可证: Apache-2.0
+  头部内容:
+    # Licensed to the Apache Software Foundation (ASF) under one or more
+    
+    # contributor license agreements.  See the NOTICE file distributed with
+    
+    # this work for additional information regarding copyright ownership.
+    
+    # The ASF licenses this file to You under the Apache License, Version 2.0
+    
+
+  文件: AGENTS.md
+  检测许可证: Apache-2.0
+  头部内容:
+    <!--
+    
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    
+    contributor license agreements.  See the NOTICE file distributed with
+    
+    this work for additional information regarding copyright ownership.
+    
+
+  文件: CODE_OF_CONDUCT.md
+  检测许可证: Apache-2.0
+  头部内容:
+    <!---
+    
+     Licensed to the Apache Software Foundation (ASF) under one or more
+    
+     contributor license agreements.  See the NOTICE file distributed with
+    
+     this work for additional information regarding copyright ownership.
+    
+
+  文件: CONTRIBUTING.md
+  检测许可证: Apache-2.0
+  头部内容:
+    <!---
+    
+     Licensed to the Apache Software Foundation (ASF) under one or more
+    
+     contributor license agreements.  See the NOTICE file distributed with
+    
+     this work for additional information regarding copyright ownership.
+    
+
+======================================================================
+报告结束
+======================================================================
